@@ -1,0 +1,10 @@
+#shape {
+  width: 200px;
+  height: 200px;
+  background: red;
+  display: none;
+  position: relative;
+}
+h1 {
+  text-align: center;
+}
